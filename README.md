@@ -77,7 +77,7 @@ Built an interactive dashboard using:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 - Department-wise Attrition Analysis
 - Job Role Analysis
@@ -99,7 +99,7 @@ Built an interactive dashboard using:
 
 ---
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
